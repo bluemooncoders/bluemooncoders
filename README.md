@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bluemooncoders
 - 👀 I’m interested in releasing the GitKraken
 - 🌱 I’m currently learning how to speak Italian
-- 💞️ I’m looking to collaborate on keeping Donald J. Trump relagated to the trashbin
+- 💞️ I’m looking to collaborate on keeping Donald J. Trump relagated to the trashbin of history
 - 📫 How to reach me ...
 
 <!---
